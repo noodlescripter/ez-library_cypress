@@ -1,6 +1,6 @@
 {
   "name": "@ez-library/cypress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript library to automation web app and rest api using cypress. Includes many helper function.",
   "main": "index.js",
   "scripts": {
@@ -19,13 +19,14 @@
     "App"
   ],
   "author": "Hamim.A",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/alamhamim/ez-library_cypress/issues"
   },
   "homepage": "https://github.com/alamhamim/ez-library_cypress#readme",
   "dependencies": {
-    "cypress": "^11.2.0",
+    "cypress": "^12.1.0",
     "cypress-xpath": "^2.0.1"
-  }
+  },
+  "devDependencies": {}
 }
